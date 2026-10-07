@@ -11,6 +11,6 @@ public class TwoSumFunction {
                 }
             }
         }
-        return new int[]{};
+        return null;
     }
 }
