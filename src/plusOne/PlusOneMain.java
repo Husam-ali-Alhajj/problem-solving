@@ -8,7 +8,7 @@ public class PlusOneMain {
         Scanner sc = new Scanner(System.in);
         PlusOneFunc pof = new PlusOneFunc();
 
-        System.out.println("What is the number of digits you want to create the array:");
+        System.out.println("What is the number of digits you want to create the array: ");
         int ans = sc.nextInt();
 
         int[] digits = new int[ans];

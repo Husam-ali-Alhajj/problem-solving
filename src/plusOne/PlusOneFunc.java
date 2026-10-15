@@ -11,7 +11,6 @@ public class PlusOneFunc {
 
             digits[i] = 0;
         }
-
         int[] arr = new int[count + 1];
         arr[0] = 1;
         return arr;
